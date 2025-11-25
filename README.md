@@ -7,3 +7,6 @@ HF Transformers
 https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/00_NeMo_Primer.ipynb
 https://mlflow.org/
 https://build.nvidia.com/nvidia/nemotron-mini-4b-instruct/modelcard
+
+WIP:
+Choose either Go (for cli built-ins) or python 
