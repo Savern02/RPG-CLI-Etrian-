@@ -3,6 +3,9 @@ Text based RPG using the Nemotron
 HuggingFace Transformers with CUDA/PyTorch
 Nemotron-Mini-4B Instruct
 HF Transformers
+Will use NIM to have model self-hosted
+
+Requirements: A gpu
 
 https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/00_NeMo_Primer.ipynb
 https://mlflow.org/
