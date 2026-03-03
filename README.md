@@ -13,7 +13,10 @@ https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/00_Ne
 https://mlflow.org/
 https://build.nvidia.com/nvidia/nemotron-mini-4b-instruct/modelcard
 
+CLI:
+- [ ] create a simple cli
 WIP:
+- [ ] Get RPG text data
 - [ ] Fine tune on RPG text data
 - [ ] Limit scope, add system to enable restrict user input or diable for OP mode
 - [ ] Create Drpg as demo
