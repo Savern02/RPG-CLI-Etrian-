@@ -13,8 +13,12 @@ https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/00_Ne
 https://mlflow.org/
 https://build.nvidia.com/nvidia/nemotron-mini-4b-instruct/modelcard
 
+CLI Reefrences:
+https://typer.tiangolo.com/reference/
+
 CLI:
 - [ ] create a simple cli
+- [ ] possible "UI" needed for the cli for the entry of the program
 WIP:
 - [ ] Get RPG text data
 - [ ] Fine tune on RPG text data
