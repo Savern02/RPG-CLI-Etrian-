@@ -12,6 +12,7 @@ Tech Reference:
 https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/00_NeMo_Primer.ipynb
 https://mlflow.org/
 https://build.nvidia.com/nvidia/nemotron-mini-4b-instruct/modelcard
+Potential addition of TurboQuant
 
 CLI Reefrences:
 https://typer.tiangolo.com/reference/
