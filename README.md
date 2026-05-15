@@ -1,17 +1,12 @@
 # RPG-CLI-Etrian-
-Text based RPG using the Nemotron
-HuggingFace Transformers with CUDA/PyTorch
-Nemotron-Mini-4B Instruct
+Text based RPG using the Qwen
 HF Transformers
-Will use NIM to have model self-hosted
-
-Requirements: Currently Built to work on a RTXX 4070 Mobile
+Lora Fine Tunning
+Requirements: Currently Built to work on a RTX 4070 Mobile
 
 
 Tech Reference: 
-https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/00_NeMo_Primer.ipynb
 https://mlflow.org/
-https://build.nvidia.com/nvidia/nemotron-mini-4b-instruct/modelcard
 Potential addition of TurboQuant
 
 CLI Reefrences:
@@ -22,12 +17,12 @@ CLI:
 - [ ] possible "UI" needed for the cli for the entry of the program
 WIP:
 - [ ] Get RPG text data
-- [ ] Fine tune on RPG text data
+- [ ] Fine tune on RPG text data and get LoRA files
 - [ ] Limit scope, add system to enable restrict user input or diable for OP mode
-- [ ] Create Drpg as demo
-- [ ] Choose either Go (for cli built-ins) or python 
+- [ ] Create Drpg as demo (start with a dueogeon RPG)
+- [x] Choose either Go (for cli built-ins) or python 
 - [ ] Create API and design rpg system
-- [ ] Support user created story frameworks
+- [ ] Support user created story frameworks (community matters)
 
 Future:
 - [ ] Possible addition of Chibi with visuals
