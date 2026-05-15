@@ -41,3 +41,10 @@ Depending on users hardware, can have both a system and narritivare model, one c
 
 Current "Docs": 
 Actions are standered, however to conduct your dialouge we have a unique system. After writing the action you choose, use either * or ~ or both ~*. ~ indicates that the action is taken during the dialogue, * indicates that the action is taken after and ~* is during the dialouge.
+
+
+
+
+
+!!!NEW!!!
+Chaning the model to Qwen, will need short and long term memory + RAG for each new additional load to the game
